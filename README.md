@@ -1,1 +1,1 @@
-making changes in the feature-branch
+changing the line for conflict
